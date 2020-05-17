@@ -1,4 +1,4 @@
-family_data = {
+var family_data = {
   "name": "👳Bhai Teja Singh 💕 👩 Nihal Kaur",
   "children": [{
     "name": "👳‍♂️Harbhajan Singh 💕 👩Jaiwanti",
@@ -122,6 +122,31 @@ family_data = {
   }, {
     "name": "👩 Anant Kaur 💕 Dhuna Singh"
   }, {
-    "name": "👩Gyaan Kaur"
+    "name": "👩Gyaan Kaur",
+    "children":[{"name":"Surjit Kaur Sethi 💕 S Khazan Sagar",
+                "children":[{"name":"Harinder Bir Sethi married to Pritpal Kaur Sethi",
+                             "children":[{"name":"Mike Sethi married to Lorena Sethi",
+                                 "children":[{"name":"Sophia"},{"name":"Samara"}]
+                              }]
+                          },
+                          {"name":"Maninder Bir Sethi married to Sumita G Singh",
+                              "children":[{"name":"Sukhmani Kaur married to Pritpal Singh"},{"name":"Gurbani Kaur"},{"name":"Japji Singh"}]},
+                          {"name":"Sawraj Kaur married to Gurcharan Jit Singh Chadha"},
+                          {"name":"Pushap Jit Kaur Sethi married to Kamal Jit Singh Sethi",
+                                "children":[{"name":"Hasneet Kaur Sethi married to Gaurav Arya"},{"name":"Manjeev Singh Sethi married to Chaahat"},{"name":"Ishmeher Singh Sethi"}]},
+                          {"name":"Nazider Kaur Anand married to Hardeep Singh Anand",
+                                 "children":[{"name":"Bhavnaaz Patwalia married to Simar Patwalia","children":[{"name":"Gurasees Kaur Patwalia"},{"name":"Agam Patwalia"}]},
+                                            {"name":"Amardeep Singh Anand"}
+                          ]} 
+
+
+                  ]
+                },
+                {"name":"Gobind Kaur"},
+                {"name":"S Daljit Singh Sahni"},
+                {"name":"Harbans Kaur"},
+                {"name":"Ranjit Singh Sahni"},
+                {"name":"S Manjit Singh Sahni"
+                }]
   }]
 };
