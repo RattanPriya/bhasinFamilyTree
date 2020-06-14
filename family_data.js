@@ -35,6 +35,9 @@ var family_data = {
           "name": "👳‍♂️Japnit Singh"
         }, {
           "name": "👳‍♂️Gurtej Singh"
+        },
+        {
+          "name": "Satjit Singh Bhasin",
         }]
       }]
     }, {
