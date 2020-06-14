@@ -126,7 +126,7 @@ var family_data = {
       "children":[{"name":"👩 Anushka Hazooria"},{"name":"👳‍♂️Harsh Hazooria"}]
     }]
   }, {
-    "name": "👩 Laaj K.","children":[
+    "name": "👩 Laaj K.💕 Diwan S.","children":[
                       {"name":"Gurcharan S. Luthra 💕 Gajinder K. Luthra","children":[{"name":"Jagmohan S. Luthra 💕 Neelam Luthra",
                                                                                       "children":[{"name":"Gayatri Mehra married to Akshya Mehra","children":[{"name":"Avishay"},{"name":"Avni"}]},
                                                                                                   {"name":"Sharan Luthra married to Gurpriya Luthra","children":[{"name":"Karam"}]}]},
@@ -148,7 +148,7 @@ var family_data = {
   }, {
     "name": "👩 Anant K. 💕 Dhuna S."
   }, {
-    "name": "👩Gyaan K.",
+    "name": "👩Gyaan K. 💕 S prem Singh",
     "children":[{"name":"Surjit K. Sethi 💕 S Khazan Sagar",
                 "children":[{"name":"Harinder Bir Sethi 💕 Pritpal K. Sethi",
                              "children":[{"name":"Mike Sethi 💕 Lorena Sethi",
