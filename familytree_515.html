@@ -55,7 +55,7 @@ var treemap = d3.tree().size([height, width]);
 // Assigns parent, children, height, depth
 root = d3.hierarchy(treeData, function(d) { return d.children; });
 root.x0 = height / 2;
-root.y0 = 400;
+root.y0 = 200;
 
 // Collapse after the second level
 root.children.forEach(collapse);
