@@ -58,7 +58,7 @@ var family_data = {
           {"name":"Mr. Kabir Anand"}]
       }]
     }, {
-      "name": "Ms. Nirmal Bedi ⚭ Mr. S. Bedi",
+      "name": "Ms. Nirmal Bedi ⚭ S. S. Bedi",
       "children":[{"name":"Ms. Reena Kohli ⚭ ‍Mr. Surjit S. Kohli","children":
                     [{"name":"Mr. Gurpreet Kohli ⚭ Ms. Simran Kohli","children":[{"name":"Ms. Samara Kohli"}]},
                       {"name":"Ms. Ritu Kohli","children":[{"name":"Ms. Rhea Grover ⚮ Mr. Rajat Grover"}]}
@@ -75,7 +75,7 @@ var family_data = {
 
   },  {
     "name": "Ms.Gyaan K. ⚭  Mr. Prem Singh",
-    "children":[{"name":"Ms. Surjit K. Sethi ⚭ Mr. S Khazan Sagar",
+    "children":[{"name":"Ms. Surjit K. Sahni ⚭ Mr. S Khazan Sagar",
                 "children":[{"name":"Mr. Harinder Bir Sethi ⚭ Ms. Pritpal K. Sethi",
                              "children":[{"name":"Mr. Mike Sethi ⚭ Ms. Lorena Sethi",
                                  "children":[{"name":"Sophia"},{"name":"Samara"}]
@@ -95,7 +95,7 @@ var family_data = {
                   ]
                 },
                 {"name":"Ms. Gobind K. ⚭ Mr. Bhupinder S. Khan Puri","children":[{"name":"Ms.Ravinder K. Sethi ⚭ Mr. Kulbir S. Sethi","children":[{"name":"Mr. Aman Sethi ⚭ Ms. Pavika","children":[{"name":"Ambreen Sethi"}]}]},
-                                                  {"name":"Mr. Ranbir S. Sahni ⚭ Ms. Gurinder K.","children":[{"name":"Ms. Kanchan Preet K. ⚭ Mr. Gurpreet S.","children":[{"name":"Mr. Prubjeev Sahni"},{"name":"Ms. Amaira"}]}]},
+                                                  {"name":"Mr. Ranbir S. Sahni ⚭ Ms. Gurinder K.","children":[{"name":"Ms. Kanchan Preet K. ⚭ Mr. Gurpreet S.","children":[{"name":"Ms. Amaira"}]}, {"name":"Mr. Prubjeev Sahni"}]},
                                                   {"name":"Mr. Dalbir S. Sahni ⚭ Ms. Harpreet K.","children":[{"name":"Mr. Simar Bir S."},{"name": "Ms.Gunisha"}]} 
 
                 ]},
