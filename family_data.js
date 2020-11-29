@@ -3,29 +3,29 @@ var family_data = {
   "children": [{
     "name": "\u26B1 Ms. Laaj K.⚭ \u26B1 Mr. Diwan S.","children":[
                       {"name":"\u26B1 Mr. Gurcharan S. Luthra ⚭ Ms. Gajinder K. Luthra","children":[{"name":"Mr. Jagmohan S. Luthra ⚭ Ms. Neelam Luthra",
-                                                                                      "children":[{"name":"Ms. Gayatri Mehra ⚭ Akshya Mehra","children":[{"name":"Avishay"},{"name":"Avni"}]},
-                                                                                                  {"name":"Mr. Sharan Luthra ⚭ Gurpriya Luthra","children":[{"name":"Karam"}]}]},
-                                                                                                    {"name":"Mr. Jagdeep S. Luthra ⚭ Rekha Luthra","children":[{"name":"Seema Luthra"},{"name":"Anjan Luthra"}]}]},
-                      {"name":"\u26B1 Mrs. Bhagwant K. duggal ⚭ \u26B1 Mr. Saroop S. duggal","children":[{"name":"Ms. Satinder K. Sahi ⚭ Mr. Gurcharan S. Sahi","children":[{"name":"Harmit lamba ⚭ Jaswinder lamba","children":[{"name":"Guneev"}]},{"name":"Tripinder Singh Sahi ⚭ Amrita Sahi","children":[{"name":"Jiya"}]}]},
-                                                                                                {"name":"Mr. Swaranjit S. duggal ⚭ Ms. Harminder K. duggal","children":[{"name":"Neha Uppal ⚭ Rajat Uppal","children":[{"name":"Arhan"}]},{"name":" Harmit Singh ⚭ Gurpreet Kaur"}]},
-                                                                                                {"name":"Mr. Harinder S. duggal ⚭ Ms. Surjit K. duggal","children":[{"name":"Megha Wadhwa ⚭ Raja Wadhwa","children":[{"name":"Araav"}]},{"name":"Jatin duggal"}]}]},
+                                                                                      "children":[{"name":"Ms. Gayatri Sonu Mehra ⚭ Mr. Akshya Mehra","children":[{"name":"Mr. Avishay"},{"name":"Ms. Avni"}]},
+                                                                                                  {"name":"Mr. Sharan Luthra ⚭ Ms. Gurpriya Luthra","children":[{"name":"Mr. Karam"}]}]},
+                                                                                                    {"name":"Mr. Jagdeep S. Luthra ⚭ Ms. Rekha Luthra","children":[{"name":"Ms. Seema Luthra"},{"name":"Mr. Anjan Luthra"}]}]},
+                      {"name":"\u26B1 Mrs. Bhagwant K. duggal ⚭ \u26B1 Mr. Saroop S. duggal","children":[{"name":"Ms. Satinder K. Sahi ⚭ Mr. Gurcharan S. Sahi","children":[{"name":"Ms. Harmit lamba ⚭ Mr. Jaswinder lamba","children":[{"name":"Mr. Guneev"}]},{"name":"Mr. Tripinder Singh Sahi ⚭ Ms. Amrita Sahi","children":[{"name":"Ms. Jiya"}]}]},
+                                                                                                {"name":"Mr. Swaranjit S. duggal ⚭ Ms. Harminder K. duggal","children":[{"name":"Ms. Neha Uppal ⚭ Mr. Rajat Uppal","children":[{"name":"Mr. Arhan"}]},{"name":"Mr. Harmit Singh ⚭ Ms. Gurpreet Kaur"}]},
+                                                                                                {"name":"Mr. Harinder S. duggal ⚭ Ms. Surjit K. duggal","children":[{"name":"Ms. Megha Wadhwa ⚭ Mr. Raja Wadhwa","children":[{"name":"Mr. Araav"}]},{"name":"Mr. Jatin duggal"}]}]},
                       {"name":"\u26B1 Mr. Davinder S. Luthra ⚭ Ms. Atamjit K. Luthra","children":[{"name":"Mr. Col.Harpreet S. Luthra ⚭ Ms. Jasvenus kaur Luthra",
-                                                                                                "children":[{"name":"Chandni Luthra shahpuri ⚭ Kavan Shahpuri",
-                                                                                                            "children":[{"name":"Amaira"},{"name":"Ziva"}]},{"name":"Mehak Ahluwalia ⚭ Mick Ahluwalia","children":[{"name":"Aroon Ahluwalia"}]}]},
-                                                                                                {"name":"Gunmala Anand ⚭ Manmohan S. Anand",
-                                                                                                    "children":[{"name":"Harbani Anand ⚭ Jaideep S. Anand","children":[{"name":"Hunar Anand"},{"name":"Japnaa"}]},
-                                                                                                                {"name":"Sheena dhingra ⚭ Harbir S. dhingra","children":[{"name":"Amer"},{"name":"Reet"}]},
-                                                                                                                {"name":"Varun Anand ⚭ Amrita Anand","children":[{"name":"Kunwar S. Anand"}]}]},
-                                                                                                {"name":"Jaimala K. ⚭ Mandeep S. duggal",
-                                                                                                "children":[{"name":"Gunika S. ⚭ Hardeep S.",
-                                                                                                            "children":[{"name":"Vaani"},{"name":"Meer"}]}]}]},
-                      {"name":"Mr. Surjit S. Luthra ⚭ \u26B1 Ms. Davinder K. Luthra","children":[{"name":"Mrs. Leena Luthra shah ⚭ Dr Syed Tasaddiq Ali Shah","children":[{"name":"Imran Syed Shah"},{"name":"Aliza Syed Shah"}]},{"name":"Puneet Luthra ⚭ Anu Mehra Luthra","children":[{"name":"Aanya Luthra"}]},{"name":"Suneet Luthra ⚭ Amrit chana Luthra","children":[{"name":"Tej Luthra"},{"name": "Kirin Luthra"}]}]}]
+                                                                                                "children":[{"name":"Ms. Chandni Luthra shahpuri ⚭ Mr. Kavan Shahpuri",
+                                                                                                            "children":[{"name":"Ms. Amaira"},{"name":"Ms. Ziva"}]},{"name":"Ms. Mehak Ahluwalia ⚭ Mr. Mick Ahluwalia","children":[{"name":"Mr. Aroon Ahluwalia"},{"name":"Mr. Zai"}]}]},
+                                                                                                {"name":"Ms. Gunmala Anand ⚭ Mr. Manmohan S. Anand",
+                                                                                                    "children":[{"name":"Ms. Harbani Anand ⚭ Mr. Jaideep S. Anand","children":[{"name":"Ms. Hunar Anand"},{"name":"Ms. Japnaa"}]},
+                                                                                                                {"name":"Ms. Sheena dhingra ⚭ Mr. Harbir S. dhingra","children":[{"name":"Mr. Amer"},{"name":"Ms. Reet"}]},
+                                                                                                                {"name":"Mr. Varun Anand ⚭ Ms. Amrita Anand","children":[{"name":"Mr. Kunwar S. Anand"}]}]},
+                                                                                                {"name":"Ms. Jaimala K. ⚭ Mr. Mandeep S. duggal",
+                                                                                                "children":[{"name":"Ms. Gunika S. ⚭ Mr. Hardeep S.",
+                                                                                                            "children":[{"name":"Ms. Vaani"},{"name":"Mr. Meer"}]}]}]},
+                      {"name":"Mr. Surjit S. Luthra ⚭ \u26B1 Ms. Davinder K. Luthra","children":[{"name":"Ms. Leena Luthra shah ⚭ Dr Syed Tasaddiq Ali Shah","children":[{"name":"Mr. Imran Syed Shah"},{"name":"Ms. Aliza Syed Shah"}]},{"name":"Mr. Puneet Luthra ⚭ Ms. Anu Mehra Luthra","children":[{"name":"Ms. Aanya Luthra"}]},{"name":"Mr.Suneet Luthra ⚭ Ms. Amrit chana Luthra","children":[{"name":"Mr. Tej Luthra"},{"name": "Ms. Kirin Luthra"}]}]}]
   },{
-    "name": "‍Mr. Trilochan S. ⚭ Ms. Jaswant kaur",
+    "name": "‍\u26B1 Mr. Trilochan S. Hazooria ⚭ \u26B1 Ms. Jaswant kaur",
     "children": [{
-      "name": "‍Mr. Kulwant S. Hazooria ⚭ Ms. Manohar Chadha",
+      "name": "‍\u26B1 Mr. Kulwant S. Hazooria ⚭ Ms. Manohar Chadha",
       "children": [{
-        "name": "Ms. Kawal Sahni ⚭ Mr. Sarabjit Sahni",
+        "name": "Ms. Kawal Sahni ⚭ Mr. Sarabjot Sahni",
         "children": [{
           "name": "‍Mr. Arshdeep Sahni ⚭ Ms. Gunweet Manchanda",
           "children": [{
@@ -53,18 +53,18 @@ var family_data = {
         "children": [{"name":"Ms. Rabani Sawhney"},{"name":"Ms. Meher Sawhney"}]
       }, {
         "name": "Ms. Geetika Anand ⚭ ‍Mr.  Sanjeev S. Anand",
-        "children": [{"name":"Ms. Reeva Anand"},
+        "children": [{"name":"Ms. Revaa Anand"},
           {"name":"‍Mr. Jaiveer Anand"},
           {"name":"Mr. Kabir Anand"}]
       }]
     }, {
-      "name": "Ms. Nirmal Bedi ⚭ S. S. Bedi",
-      "children":[{"name":"Ms. Reena Kohli ⚭ ‍Mr. Surjit S. Kohli","children":
-                    [{"name":"Mr. Gurpreet Kohli ⚭ Ms. Simran Kohli","children":[{"name":"Ms. Samara Kohli"}]},
-                      {"name":"Ms. Ritu Kohli","children":[{"name":"Ms. Rhea Grover ⚮ Mr. Rajat Grover"}]}
+      "name": "\u26B1 Ms. Nirmal Bedi ⚭ \u26B1 S. S. Bedi",
+      "children":[{"name":"Ms. Reena Kohli ⚭ ‍\u26B1 Mr. Surjit S. Kohli","children":
+                    [{"name":"Mr. Gurpreet Kohli ⚭ Ms. Simran Kohli","children":[{"name":"Ms. Samaira Kohli"}]},
+                      {"name":"Ms. Ritu Kohli ⚮ Mr. Rajat Grover","children":[{"name":"Ms. Rhea Grover"}]}
 
                     ]},
-                  {"name":"‍Mr. Binder Bedi ⚮ Ms.Honey Bedi, Ms.Dolly Bedi",
+                  {"name":"‍Mr. Brijinder Bedi ⚮ Ms.Honey Bedi, Ms.Dolly Bedi",
                   "children":[{"name":"Mr. Tejkaran Bedi"},{"name":"Mr. Shivkaran"}]}]
     }, {
       "name": "‍Mr. Harcharan S. Hazooria ⚭ Ms.Teena Hazooria",
@@ -111,9 +111,9 @@ var family_data = {
                 {"name":" Mr. Manjit S. Sahni ⚭ Ms. Shireen Saher","children":[{"name":"Ms.Pheroza Gyan ⚭ Mr. Eloy Prieto","children":[{"name":"Ms.Serafina"},{"name":"Mr. Sebastian"}]},{"name":"Ms. Zarina Margaret"}]
                 }]
   },{
-    "name": "‍Mr. Harbhajan S. ⚭ Ms. Jaiwanti",
+    "name": "‍\u26B1 Mr. Harbhajan S. ⚭ \u26B1 Ms. Jaiwanti",
     "children": [{
-      "name": "‍Mr. Bhupinder S. ⚭ Ms. Narinder K.",
+      "name": "‍\u26B1 Mr. Bhupinder S. ⚭ Ms. Narinder K.",
       "children": [{
           "name": "‍Mr. Arvind S. Bhasin ⚭ Ms. Gulroop K.",
           "children": [{
@@ -133,7 +133,7 @@ var family_data = {
         }
       ]
     }, {
-      "name": "Ms. Amarjit K. ⚭ ‍Mr. Gurbaksh S. Bhasin",
+      "name": "\u26B1 Ms. Amarjit K. ⚭ ‍\u26B1 Mr. Gurbaksh S. Bhasin",
       "children": [{
         "name": "‍Mr. Jasmit S. Bhasin ⚭ Ms. Poonam K.",
         "children": [{
@@ -150,7 +150,7 @@ var family_data = {
         "name":"Mr. Satjit S."
       }]
     }, {
-      "name": "‍Mr. Joginder Bir S. Hazooria ⚭ Ms. Gursharan K.",
+      "name": "‍\u26B1 Mr. Joginder Bir S. Hazooria ⚭ Ms. Gursharan K.",
       "children": [{
         "name": "Ms. Ishmeet K. Bhasin ⚭ ‍Mr. Gurvinder S.",
         "children": [{
@@ -165,7 +165,7 @@ var family_data = {
       }]
 
     }, {
-      "name": "‍Mr. Jagjit S. Hazooria ⚭ Ms.Ravinder K.",
+      "name": "‍\u26B1 Mr. Jagjit S. Hazooria ⚭ Ms.Ravinder K.",
       "children": [{
         "name": "‍Mr. Sundeep S. Bhasin ⚭ to ‍Ms. Rinki S.",
         "children": [{
