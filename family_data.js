@@ -11,7 +11,7 @@ var family_data = {
                                                                                                 {"name":"Mr. Harinder S. duggal ⚭ Ms. Surjit K. duggal","children":[{"name":"Ms. Megha Wadhwa ⚭ Mr. Raja Wadhwa","children":[{"name":"Mr. Araav"}]},{"name":"Mr. Jatin duggal"}]}]},
                       {"name":"\u26B1 Mr. Davinder S. Luthra ⚭ Ms. Atamjit K. Luthra","children":[{"name":"Mr. Col.Harpreet S. Luthra ⚭ Ms. Jasvenus kaur Luthra",
                                                                                                 "children":[{"name":"Ms. Chandni Luthra shahpuri ⚭ Mr. Kavan Shahpuri",
-                                                                                                            "children":[{"name":"Ms. Amaira"},{"name":"Ms. Ziva"}]},{"name":"Ms. Mehak Ahluwalia ⚭ Mr. Mick Ahluwalia","children":[{"name":"Mr. Aroon Ahluwalia"},{"name":"Mr. Zai"}]}]},
+                                                                                                            "children":[{"name":"Ms. Amaira"},{"name":"Ms. Ziva"}]},{"name":"Ms. Mehak Ahluwalia ⚭ Mr. Mick Ahluwalia","children":[{"name":"Mr. Aroon Ahluwalia"},{"name":"Mr. Azai"}]}]},
                                                                                                 {"name":"Ms. Gunmala Anand ⚭ Mr. Manmohan S. Anand",
                                                                                                     "children":[{"name":"Ms. Harbani Anand ⚭ Mr. Jaideep S. Anand","children":[{"name":"Ms. Hunar Anand"},{"name":"Ms. Japnaa"}]},
                                                                                                                 {"name":"Ms. Sheena dhingra ⚭ Mr. Harbir S. dhingra","children":[{"name":"Mr. Amer"},{"name":"Ms. Reet"}]},
@@ -71,14 +71,14 @@ var family_data = {
       "children":[{"name":"Ms. Anushka Hazooria"},{"name":"‍Mr. Harsh Hazooria"}]
     }]
   },   {
-    "name": "Ms. Anant K. ⚭ Mr. Dhuna S."
+    "name": "\u26B1 Ms. Anant K. ⚭ \u26B1 Mr. Dhuna S."
 
   },  {
     "name": "\u26B1 Ms.Gyaan K. ⚭ \u26B1 Mr. Prem Singh",
     "children":[{"name":"\u26B1 Ms. Surjit K. Sahni ⚭ \u26B1 Mr. S Khazan Sagar",
-                "children":[{"name":"Ms. Hansraj Kaur"},{"name":"\u26B1 Mr. Harinder Bir Sethi ⚭ \u26B1 Ms. Pritpal K. Sethi",
+                "children":[{"name":"\u26B1 Ms. Hansraj Kaur"},{"name":"\u26B1 Mr. Harinder Bir Sethi ⚭ \u26B1 Ms. Pritpal K. Sethi",
                              "children":[{"name":"Mr. Mike Sethi ⚭ Ms. Lorena Sethi",
-                                 "children":[{"name":"Sophia"},{"name":"Samara"}]
+                                 "children":[{"name":"Ms. Sophia"},{"name":"Ms. Samara"}]
                               }]
                           },
                           {"name":"Mr. Maninder Bir Sethi ⚭ Ms. Sumita G S.",
@@ -103,10 +103,10 @@ var family_data = {
                                                                                 {"name":"Mr. Ranbir S. Sahni ⚭ Ms. Natasha Sahni","children":[{"name":"Mr. Manav Bir Sahni"},{"name":"Mr. Guntash Sahni"}]}
 
                                                                               ]},
-                {"name":"Ms. Harbans K. to Mr. Narinder S. Sahni","children":[{"name":"Ms. Nancy Sahni ⚭ Mr. Jake Metzler"},{"name":"Ms.Shaloo Sahni ⚭ Mr. Mahmoud Arjomand","children":[{"name":"Banou"},{"name":"Jahan Arjomand"},{"name":"May"}]},{"name":"Ms. Lily Sahni ⚭ \u26B1 11 th Duke of Marlborough"}]},
+                {"name":"Ms. Harbans K. to Mr. Narinder S. Sahni","children":[{"name":"Ms. Nancy Sahni ⚭ Mr. Jake Metzler"},{"name":"Ms.Shaloo Sahni ⚭ Mr. Mahmoud Arjomand","children":[{"name":"Ms. Banou"},{"name":"Mr. Jahan Arjomand"},{"name":"Ms. May"}]},{"name":"Ms. Lily Sahni ⚭ \u26B1 11 th Duke of Marlborough"}]},
                 {"name":"\u26B1 Mr. Ranjit S. Sahni ⚭ Ms. Mohinder K. Sahni","children":[{"name":"Mr. Atam Bir S. ⚭ \u26B1 Ms.Ruchika","children":[{"name":"Ms. Namrita Sahni"}]},
                                                                                         {"name":"Ms. Harmeet Sethi ⚭ Mr. Anand S. Sethi","children":[{"name":"Mr. Jaskirat"},{"name":"Mr. Harkirat"}]},
-                                                                                        {"name":"Mr.Babeet S. Sahni ⚭ Ms. Sukhpreet S.","children":[{"name":"Mr. Bismanjit S."},{"name":"Mr. Arya Jit S."},{"name":"Ms. Mansa Gyan"}]},
+                                                                                        {"name":"Mr.Babeet S. Sahni ⚭ Ms. Sukhpreet K.","children":[{"name":"Mr. Bismanjit S."},{"name":"Mr. Arya Jit S."},{"name":"Ms. Mansa Gyan"}]},
                                                                                         {"name":"Ms.Jasmine ⚭ Mr. Ishpal S. Sethi","children":[{"name":"Mr. Paraj"}]}]},
                 {"name":" Mr. Manjit S. Sahni ⚭ Ms. Shireen Saher","children":[{"name":"Ms.Pheroza Gyan ⚭ Mr. Eloy Prieto","children":[{"name":"Ms.Serafina"},{"name":"Mr. Sebastian"}]},{"name":"Ms. Zarina Margaret"}]
                 }]
