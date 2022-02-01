@@ -1,5 +1,5 @@
 var family_data = {
-  "name": "Mr. Bhai Teja S. ⚭ Ms. Nihal K.",
+  "name": "⚱ Mr. Bhai Teja S. ⚭ ⚱ Ms. Nihal K.",
   "children": [
     {
       "name": "⚱ Ms. Laaj K.⚭ ⚱ Mr. Diwan S.",
