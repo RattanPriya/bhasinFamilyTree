@@ -700,7 +700,7 @@ var family_data = {
               "name": "‍Mr. Anhad S. Bhasin & Ms. Bavnit K.",
               "children": [
                 {
-                  "name": "Aria K. Bhasin"
+                  "name": "Ms. Aria K. Bhasin"
                 }
               ]
             },
