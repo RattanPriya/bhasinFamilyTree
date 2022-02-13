@@ -1,17 +1,17 @@
 var family_data = {
-  "name": "⚱ Mr. Bhai Teja S. ⚭ ⚱ Ms. Nihal K.",
+  "name": "Lt. Mr. Bhai Teja S. & Lt. Ms. Nihal K.",
   "children": [
     {
-      "name": "⚱ Ms. Laaj K.⚭ ⚱ Mr. Diwan S.",
+      "name": "Lt. Ms. Laaj K.& Lt. Mr. Diwan S.",
       "children": [
         {
-          "name": "⚱ Mr. Gurcharan S. Luthra ⚭ Ms. ⚱ Gajinder K. Luthra",
+          "name": "Lt. Mr. Gurcharan S. Luthra & Ms. Lt. Gajinder K. Luthra",
           "children": [
             {
-              "name": "Mr. Jagmohan S. Luthra ⚭ Ms. Neelam Luthra",
+              "name": "Mr. Jagmohan S. Luthra & Ms. Neelam Luthra",
               "children": [
                 {
-                  "name": "Ms. Gayatri Sonu Mehra ⚭ Mr. Akshya Mehra",
+                  "name": "Ms. Gayatri Sonu Mehra & Mr. Akshya Mehra",
                   "children": [
                     {
                       "name": "Mr. Avishay"
@@ -22,7 +22,7 @@ var family_data = {
                   ]
                 },
                 {
-                  "name": "Mr. Sharan Luthra ⚭ Ms. Gurpriya Luthra",
+                  "name": "Mr. Sharan Luthra & Ms. Gurpriya Luthra",
                   "children": [
                     {
                       "name": "Mr. Karam"
@@ -32,7 +32,7 @@ var family_data = {
               ]
             },
             {
-              "name": "Mr. Jagdeep S. Luthra ⚭ Ms. Rekha Luthra",
+              "name": "Mr. Jagdeep S. Luthra & Ms. Rekha Luthra",
               "children": [
                 {
                   "name": "Ms. Seema Luthra"
@@ -45,13 +45,13 @@ var family_data = {
           ]
         },
         {
-          "name": "⚱ Mrs. Bhagwant K. duggal ⚭ ⚱ Mr. Saroop S. duggal",
+          "name": "Lt. Mrs. Bhagwant K. duggal & Lt. Mr. Saroop S. duggal",
           "children": [
             {
-              "name": "Ms. Satinder K. Sahi ⚭ Mr. Gurcharan S. Sahi",
+              "name": "Ms. Satinder K. Sahi & Mr. Gurcharan S. Sahi",
               "children": [
                 {
-                  "name": "Ms. Harmit lamba ⚭ Mr. Jaswinder lamba",
+                  "name": "Ms. Harmit lamba & Mr. Jaswinder lamba",
                   "children": [
                     {
                       "name": "Mr. Guneev"
@@ -59,7 +59,7 @@ var family_data = {
                   ]
                 },
                 {
-                  "name": "Mr. Tripinder Singh Sahi ⚭ Ms. Amrita Sahi",
+                  "name": "Mr. Tripinder Singh Sahi & Ms. Amrita Sahi",
                   "children": [
                     {
                       "name": "Ms. Jiya"
@@ -69,10 +69,10 @@ var family_data = {
               ]
             },
             {
-              "name": "Mr. Swaranjit S. duggal ⚭ Ms. Harminder K. duggal",
+              "name": "Mr. Swaranjit S. duggal & Ms. Harminder K. duggal",
               "children": [
                 {
-                  "name": "Ms. Neha Uppal ⚭ Mr. Rajat Uppal",
+                  "name": "Ms. Neha Uppal & Mr. Rajat Uppal",
                   "children": [
                     {
                       "name": "Mr. Arhan"
@@ -80,15 +80,15 @@ var family_data = {
                   ]
                 },
                 {
-                  "name": "Mr. Harmit Singh ⚭ Ms. Gurpreet Kaur"
+                  "name": "Mr. Harmit Singh & Ms. Gurpreet Kaur"
                 }
               ]
             },
             {
-              "name": "Mr. Harinder S. duggal ⚭ Ms. Surjit K. duggal",
+              "name": "Mr. Harinder S. duggal & Ms. Surjit K. duggal",
               "children": [
                 {
-                  "name": "Ms. Megha Wadhwa ⚭ Mr. Raja Wadhwa",
+                  "name": "Ms. Megha Wadhwa & Mr. Raja Wadhwa",
                   "children": [
                     {
                       "name": "Mr. Araav"
@@ -103,13 +103,13 @@ var family_data = {
           ]
         },
         {
-          "name": "⚱ Mr. Davinder S. Luthra ⚭ Ms. Atamjit K. Luthra",
+          "name": "Lt. Mr. Davinder S. Luthra & Ms. Atamjit K. Luthra",
           "children": [
             {
-              "name": "Mr. Col.Harpreet S. Luthra ⚭ Ms. Jasvenus kaur Luthra",
+              "name": "Mr. Col.Harpreet S. Luthra & Ms. Jasvenus kaur Luthra",
               "children": [
                 {
-                  "name": "Ms. Chandni Luthra shahpuri ⚭ Mr. Kavan Shahpuri",
+                  "name": "Ms. Chandni Luthra shahpuri & Mr. Kavan Shahpuri",
                   "children": [
                     {
                       "name": "Ms. Amaira"
@@ -120,7 +120,7 @@ var family_data = {
                   ]
                 },
                 {
-                  "name": "Ms. Mehak Ahluwalia ⚭ Mr. Mick Ahluwalia",
+                  "name": "Ms. Mehak Ahluwalia & Mr. Mick Ahluwalia",
                   "children": [
                     {
                       "name": "Mr. Aroon Ahluwalia"
@@ -133,10 +133,10 @@ var family_data = {
               ]
             },
             {
-              "name": "Ms. Gunmala Anand ⚭ Mr. Manmohan S. Anand",
+              "name": "Ms. Gunmala Anand & Mr. Manmohan S. Anand",
               "children": [
                 {
-                  "name": "Ms. Harbani Anand ⚭ Mr. Jaideep S. Anand",
+                  "name": "Ms. Harbani Anand & Mr. Jaideep S. Anand",
                   "children": [
                     {
                       "name": "Ms. Hunar Anand"
@@ -147,7 +147,7 @@ var family_data = {
                   ]
                 },
                 {
-                  "name": "Ms. Sheena dhingra ⚭ Mr. Harbir S. dhingra",
+                  "name": "Ms. Sheena dhingra & Mr. Harbir S. dhingra",
                   "children": [
                     {
                       "name": "Mr. Amer"
@@ -158,7 +158,7 @@ var family_data = {
                   ]
                 },
                 {
-                  "name": "Mr. Varun Anand ⚭ Ms. Amrita Anand",
+                  "name": "Mr. Varun Anand & Ms. Amrita Anand",
                   "children": [
                     {
                       "name": "Mr. Kunwar S. Anand"
@@ -168,10 +168,10 @@ var family_data = {
               ]
             },
             {
-              "name": "Ms. Jaimala K. ⚭ Mr. Mandeep S. duggal",
+              "name": "Ms. Jaimala K. & Mr. Mandeep S. duggal",
               "children": [
                 {
-                  "name": "Ms. Gunika S. ⚭ Mr. Hardeep S.",
+                  "name": "Ms. Gunika S. & Mr. Hardeep S.",
                   "children": [
                     {
                       "name": "Ms. Vaani"
@@ -186,10 +186,10 @@ var family_data = {
           ]
         },
         {
-          "name": "Mr. Surjit S. Luthra ⚭ ⚱ Ms. Davinder K. Luthra",
+          "name": "Mr. Surjit S. Luthra & Lt. Ms. Davinder K. Luthra",
           "children": [
             {
-              "name": "Ms. Leena Luthra shah ⚭ Dr Syed Tasaddiq Ali Shah",
+              "name": "Ms. Leena Luthra shah & Dr Syed Tasaddiq Ali Shah",
               "children": [
                 {
                   "name": "Mr. Imran Syed Shah"
@@ -200,7 +200,7 @@ var family_data = {
               ]
             },
             {
-              "name": "Mr. Puneet Luthra ⚭ Ms. Anu Mehra Luthra",
+              "name": "Mr. Puneet Luthra & Ms. Anu Mehra Luthra",
               "children": [
                 {
                   "name": "Ms. Aanya Luthra"
@@ -208,7 +208,7 @@ var family_data = {
               ]
             },
             {
-              "name": "Mr.Suneet Luthra ⚭ Ms. Amrit chana Luthra",
+              "name": "Mr.Suneet Luthra & Ms. Amrit chana Luthra",
               "children": [
                 {
                   "name": "Mr. Tej Luthra"
@@ -223,16 +223,16 @@ var family_data = {
       ]
     },
     {
-      "name": "‍⚱ Mr. Trilochan S. Hazooria ⚭ ⚱ Ms. Jaswant kaur",
+      "name": "‍Lt. Mr. Trilochan S. Hazooria & Lt. Ms. Jaswant kaur",
       "children": [
         {
-          "name": "‍⚱ Mr. Kulwant S. Hazooria ⚭ Ms. Manohar Chadha",
+          "name": "‍Lt. Mr. Kulwant S. Hazooria & Ms. Manohar Chadha",
           "children": [
             {
-              "name": "Ms. Kawal Sahni ⚭ Mr. Sarabjot Sahni",
+              "name": "Ms. Kawal Sahni & Mr. Sarabjot Sahni",
               "children": [
                 {
-                  "name": "‍Mr. Arshdeep Sahni ⚭ Ms. Gunweet Manchanda",
+                  "name": "‍Mr. Arshdeep Sahni & Ms. Gunweet Manchanda",
                   "children": [
                     {
                       "name": "‍Mr. Jahhanvir Sahni"
@@ -245,10 +245,10 @@ var family_data = {
               ]
             },
             {
-              "name": "Ms. Amrita Kataria ⚭ ‍Mr. Jaideep S Kataria",
+              "name": "Ms. Amrita Kataria & ‍Mr. Jaideep S Kataria",
               "children": [
                 {
-                  "name": "Ms. Gurpriya Luthra ⚭ ‍Mr.  Sharan Luthra",
+                  "name": "Ms. Gurpriya Luthra & ‍Mr.  Sharan Luthra",
                   "children": [
                     {
                       "name": "Mr. Karam Luthra"
@@ -261,7 +261,7 @@ var family_data = {
               ]
             },
             {
-              "name": "Ms. Seema Kathuria ⚭ ‍Mr. Gurbachan S. Kathuria",
+              "name": "Ms. Seema Kathuria & ‍Mr. Gurbachan S. Kathuria",
               "children": [
                 {
                   "name": "Mr. Tarunveer Kathuria"
@@ -272,7 +272,7 @@ var family_data = {
               ]
             },
             {
-              "name": "Ms. Danita Sawhney ⚭ ‍Mr. Jasminder S. Sawhney",
+              "name": "Ms. Danita Sawhney & ‍Mr. Jasminder S. Sawhney",
               "children": [
                 {
                   "name": "Ms. Rabani Sawhney"
@@ -283,7 +283,7 @@ var family_data = {
               ]
             },
             {
-              "name": "Ms. Geetika Anand ⚭ ‍Mr.  Sanjeev S. Anand",
+              "name": "Ms. Geetika Anand & ‍Mr.  Sanjeev S. Anand",
               "children": [
                 {
                   "name": "Ms. Revaa Anand"
@@ -299,13 +299,13 @@ var family_data = {
           ]
         },
         {
-          "name": "⚱ Ms. Nirmal Bedi ⚭ ⚱ S. S. Bedi",
+          "name": "Lt. Ms. Nirmal Bedi & Lt. S. S. Bedi",
           "children": [
             {
-              "name": "Ms. Reena Kohli ⚭ ‍⚱ Mr. Surjit S. Kohli",
+              "name": "Ms. Dolly Bedi & ‍Lt. Mr. Surjit S. Kohli",
               "children": [
                 {
-                  "name": "Mr. Gurpreet Kohli ⚭ Ms. Simran Kohli",
+                  "name": "Mr. Gurpreet Kohli & Ms. Simran Kohli",
                   "children": [
                     {
                       "name": "Ms. Samaira Kohli"
@@ -313,7 +313,7 @@ var family_data = {
                   ]
                 },
                 {
-                  "name": "Ms. Ritu Kohli ⚮ Mr. Rajat Grover",
+                  "name": "Ms. Ritu Kohli & Mr. Rajat Grover",
                   "children": [
                     {
                       "name": "Ms. Rhea Grover"
@@ -323,7 +323,7 @@ var family_data = {
               ]
             },
             {
-              "name": "‍Mr. Brijinder Bedi ⚮ Ms.Honey Bedi, Ms.Dolly Bedi",
+              "name": "‍Mr. Brinder Bedi & Ms.Honey Bedi",
               "children": [
                 {
                   "name": "Mr. Tejkaran Bedi"
@@ -336,7 +336,7 @@ var family_data = {
           ]
         },
         {
-          "name": "‍Mr. Harcharan S. Hazooria ⚭ Ms.Teena Hazooria",
+          "name": "‍Mr. Harcharan S. Hazooria & Ms. Teena Hazooria",
           "children": [
             {
               "name": "Ms. Anushka Hazooria"
@@ -349,22 +349,22 @@ var family_data = {
       ]
     },
     {
-      "name": "⚱ Ms. Anant K. ⚭ ⚱ Mr. Dhuna S."
+      "name": "Lt. Ms. Anant K. & Lt. Mr. Dhuna S."
     },
     {
-      "name": "⚱ Ms.Gyaan K. ⚭ ⚱ Mr. Prem Singh",
+      "name": "Lt. Ms.Gyaan K. & Lt. Mr. Prem Singh",
       "children": [
         {
-          "name": "⚱ Ms. Surjit K. Sahni ⚭ ⚱ Mr. S Khazan Sagar",
+          "name": "Lt. Ms. Surjit K. Sahni & Lt. Mr. S Khazan Sagar",
           "children": [
             {
-              "name": "⚱ Ms. Hansraj Kaur"
+              "name": "Lt. Ms. Hansraj Kaur"
             },
             {
-              "name": "⚱ Mr. Harinder Bir Sethi ⚭ ⚱ Ms. Pritpal K. Sethi",
+              "name": "Lt. Mr. Harinder Bir Sethi & Lt. Ms. Pritpal K. Sethi",
               "children": [
                 {
-                  "name": "Mr. Mike Sethi ⚭ Ms. Lorena Sethi",
+                  "name": "Mr. Mike Sethi & Ms. Lorena Sethi",
                   "children": [
                     {
                       "name": "Ms. Sophia"
@@ -377,10 +377,10 @@ var family_data = {
               ]
             },
             {
-              "name": "Mr. Maninder Bir Sethi ⚭ Ms. Sumita G S.",
+              "name": "Mr. Maninder Bir Sethi & Ms. Sumita G S.",
               "children": [
                 {
-                  "name": "Ms. Sukhmani K. ⚭ Mr. Pritpal S."
+                  "name": "Ms. Sukhmani K. & Mr. Pritpal S."
                 },
                 {
                   "name": "Ms. Gurbani K."
@@ -391,16 +391,16 @@ var family_data = {
               ]
             },
             {
-              "name": "Ms. Sawraj K. ⚭ ⚱ Mr. Gurcharan Jit S. Chadha"
+              "name": "Ms. Sawraj K. & Lt. Mr. Gurcharan Jit S. Chadha"
             },
             {
-              "name": "Ms.Pushap Jit K. Sethi ⚭ Mr. Kamal Jit S. Sethi",
+              "name": "Ms.Pushap Jit K. Sethi & Mr. Kamal Jit S. Sethi",
               "children": [
                 {
-                  "name": "Ms.Hasneet K. Sethi ⚭ Mr. Gaurav Arya"
+                  "name": "Ms.Hasneet K. Sethi & Mr. Gaurav Arya"
                 },
                 {
-                  "name": "Mr. Manjeev S. Sethi ⚭ Ms.Chaahat"
+                  "name": "Mr. Manjeev S. Sethi & Ms.Chaahat"
                 },
                 {
                   "name": "Mr. Ishmeher S. Sethi"
@@ -408,10 +408,10 @@ var family_data = {
               ]
             },
             {
-              "name": "Ms.Nazider K. Anand ⚭ Mr. Hardeep S. Anand",
+              "name": "Ms.Nazider K. Anand & Mr. Hardeep S. Anand",
               "children": [
                 {
-                  "name": "Mr. Bhavnaaz Patwalia ⚭ Ms.Simar Patwalia",
+                  "name": "Mr. Bhavnaaz Patwalia & Ms.Simar Patwalia",
                   "children": [
                     {
                       "name": "Ms.Gurasees K. Patwalia"
@@ -429,26 +429,29 @@ var family_data = {
           ]
         },
         {
-          "name": "⚱ Ms. Gobind K. ⚭ ⚱ Mr. Bhupinder S. Khan Puri",
+          "name": "Lt. Ms. Gobind K. & Lt. Mr. Bhupinder S. Khan Puri",
           "children": [
             {
-              "name": "Ms.Ravinder K. Sethi ⚭ Mr. Kulbir S. Sethi",
+              "name": "Ms.Ravinder K. Sethi & Mr. Kulbir S. Sethi",
               "children": [
                 {
-                  "name": "Mr. Aman Sethi ⚭ Ms. Pavika",
+                  "name": "Mr. Aman Sethi & Ms. Pavika",
                   "children": [
                     {
-                      "name": "Ms. Ambreen Sethi"
+                      "name": "Ms. Ambreen"
+                    },
+                    {
+                      "name": "Ms. Tara"
                     }
                   ]
                 }
               ]
             },
             {
-              "name": "⚱  Mr. Ranbir S. Sahni ⚭ Ms. Gurinder K.",
+              "name": "Lt.  Mr. Ranbir S. Sahni & Ms. Gurinder K.",
               "children": [
                 {
-                  "name": "Ms. Kanchan Preet K. ⚭ Mr. Gurpreet S.",
+                  "name": "Ms. Kanchan Preet K. & Mr. Gurpreet S.",
                   "children": [
                     {
                       "name": "Ms. Amaira"
@@ -461,7 +464,7 @@ var family_data = {
               ]
             },
             {
-              "name": "⚱ Mr. Dilbir S. Sahni ⚭ Ms. Harpreet K.",
+              "name": "Lt. Mr. Dilbir S. Sahni & Ms. Harpreet K.",
               "children": [
                 {
                   "name": "Mr. Simar Bir S."
@@ -474,13 +477,13 @@ var family_data = {
           ]
         },
         {
-          "name": "⚱ Mr. Daljit S. Sahni ⚭ Ms. Pritam K. Sahni",
+          "name": "Lt. Mr. Daljit S. Sahni & Ms. Pritam K. Sahni",
           "children": [
             {
-              "name": "⚱ Mr Sonny"
+              "name": "Lt. Mr Sonny"
             },
             {
-              "name": "Ms.Harneet K. Chadha ⚭ Mr. Inderpal S. Chadha",
+              "name": "Ms.Harneet K. Chadha & Mr. Inderpal S. Chadha",
               "children": [
                 {
                   "name": "Ms.Anushka Chadha"
@@ -488,7 +491,7 @@ var family_data = {
               ]
             },
             {
-              "name": "Mr. Ranbir S. Sahni ⚭ Ms. Natasha Sahni",
+              "name": "Mr. Ranbir S. Sahni & Ms. Natasha Sahni",
               "children": [
                 {
                   "name": "Mr. Manav Bir Sahni"
@@ -504,10 +507,10 @@ var family_data = {
           "name": "Ms. Harbans K. to Mr. Narinder S. Sahni",
           "children": [
             {
-              "name": "Ms. Nancy Sahni ⚭ Mr. Jake Metzler"
+              "name": "Ms. Nancy Sahni & Mr. Jake Metzler"
             },
             {
-              "name": "Ms.Shaloo Sahni ⚭ Mr. Mahmoud Arjomand",
+              "name": "Ms.Shaloo Sahni & Mr. Mahmoud Arjomand",
               "children": [
                 {
                   "name": "Ms. Banou"
@@ -521,23 +524,23 @@ var family_data = {
               ]
             },
             {
-              "name": "Ms. Lily Sahni ⚭ ⚱ 11 th Duke of Marlborough"
+              "name": "Ms. Lily Sahni & Lt. 11 th Duke of Marlborough"
             }
           ]
         },
         {
-          "name": "⚱ Mr. Ranjit S. Sahni ⚭ Ms. Mohinder K. Sahni",
+          "name": "Lt. Mr. Ranjit S. Sahni & Ms. Mohinder K. Sahni",
           "children": [
             {
-              "name": "Mr. Atam Bir S. ⚭ ⚱ Ms.Ruchika",
+              "name": "Mr. Atam Bir S. & Lt. Ms.Ruchika",
               "children": [
                 {
-                  "name": "Ms. Namrita Sahni"
+                  "name": "Ms. Namrita Sahni & Mr. Jolly"
                 }
               ]
             },
             {
-              "name": "Ms. Harmeet Sethi ⚭ Mr. Anand S. Sethi",
+              "name": "Ms. Harmeet Sethi & Mr. Anand S. Sethi",
               "children": [
                 {
                   "name": "Mr. Jaskirat"
@@ -548,7 +551,7 @@ var family_data = {
               ]
             },
             {
-              "name": "Mr.Babeet S. Sahni ⚭ Ms. Sukhpreet K.",
+              "name": "Mr.Babeet S. Sahni & Ms. Sukhpreet K.",
               "children": [
                 {
                   "name": "Mr. Bismanjit S."
@@ -562,20 +565,20 @@ var family_data = {
               ]
             },
             {
-              "name": "Ms.Jasmine ⚭ Mr. Ishpal S. Sethi",
+              "name": "Ms.Jasmine & Mr. Ishpal S. Sethi",
               "children": [
                 {
-                  "name": "Mr. Parnaaz"
+                  "name": "Ms. Parnaaz"
                 }
               ]
             }
           ]
         },
         {
-          "name": " Mr. Manjit S. Sahni ⚭ ⚱ Ms. Shireen Saher",
+          "name": " Mr. Manjit S. Sahni & Lt. Ms. Shireen Saher",
           "children": [
             {
-              "name": "Ms.Pheroza Gyan ⚭ Mr. Eloy Prieto",
+              "name": "Ms.Pheroza Gyan & Mr. Eloy Prieto",
               "children": [
                 {
                   "name": "Ms.Serafina"
@@ -593,13 +596,13 @@ var family_data = {
       ]
     },
     {
-      "name": "‍⚱ Mr. Harbhajan S. ⚭ ⚱ Ms. Jaiwanti",
+      "name": "‍Lt. Mr. Harbhajan S. & Lt. Ms. Jaiwanti",
       "children": [
         {
-          "name": "‍⚱ Mr. Bhupinder S. ⚭ Ms. Narinder K.",
+          "name": "‍Lt. Mr. Bhupinder S. & Ms. Narinder K.",
           "children": [
             {
-              "name": "‍Mr. Arvind S. Bhasin ⚭ Ms. Gulroop K.",
+              "name": "‍Mr. Arvind S. Bhasin & Ms. Gulroop K.",
               "children": [
                 {
                   "name": "‍Mr. Tanmay S. Bhasin"
@@ -610,7 +613,7 @@ var family_data = {
               ]
             },
             {
-              "name": "‍Mr. Bimaljit S. Bhasin ⚭ Ms. Abha Bhasin",
+              "name": "‍Mr. Bimaljit S. Bhasin & Ms. Abha Bhasin",
               "children": [
                 {
                   "name": "‍Mr. Keerat S."
@@ -623,10 +626,10 @@ var family_data = {
           ]
         },
         {
-          "name": "⚱ Ms. Amarjit K. ⚭ ‍⚱ Mr. Gurbaksh S. Bhasin",
+          "name": "Lt. Ms. Amarjit K. & ‍Lt. Mr. Gurbaksh S. Bhasin",
           "children": [
             {
-              "name": "‍Mr. Jasmit S. Bhasin ⚭ Ms. Poonam K.",
+              "name": "‍Mr. Jasmit S. Bhasin & Ms. Poonam K.",
               "children": [
                 {
                   "name": "‍Mr. Pavit S."
@@ -634,7 +637,7 @@ var family_data = {
               ]
             },
             {
-              "name": "Ms. Harmit K. ⚭ ‍Mr. Gurmeet S.",
+              "name": "Ms. Harmit K. & ‍Mr. Gurmeet S.",
               "children": [
                 {
                   "name": "‍Mr. Japnit S."
@@ -650,10 +653,10 @@ var family_data = {
           ]
         },
         {
-          "name": "‍⚱ Mr. Joginder Bir S. Hazooria ⚭ Ms. Gursharan K.",
+          "name": "‍Lt. Mr. Joginder Bir S. Hazooria & Ms. Gursharan K.",
           "children": [
             {
-              "name": "Ms. Ishmeet K. Bhasin ⚭ ‍Mr. Gurvinder S.",
+              "name": "Ms. Ishmeet K. Bhasin & ‍Mr. Gurvinder S.",
               "children": [
                 {
                   "name": "Ms. Harbani K."
@@ -667,15 +670,15 @@ var family_data = {
               "name": "Ms. Jasneet K."
             },
             {
-              "name": "‍Mr. Chirangad S. Bhasin ⚭ Ms. Priya"
+              "name": "‍Mr. Chirangad S. Bhasin & Ms. Priya"
             }
           ]
         },
         {
-          "name": "‍⚱ Mr. Jagjit S. Hazooria ⚭ Ms.Ravinder K.",
+          "name": "‍Lt. Mr. Jagjit S. Hazooria & Ms.Ravinder K.",
           "children": [
             {
-              "name": "‍Mr. Sundeep S. Bhasin ⚭ to ‍Ms. Rinki S.",
+              "name": "‍Mr. Sundeep S. Bhasin & to ‍Ms. Rinki S.",
               "children": [
                 {
                   "name": "Ms. Raina"
@@ -686,15 +689,15 @@ var family_data = {
               ]
             },
             {
-              "name": "Ms. Khushpreet K. ⚭ Mr. Salil Sethi"
+              "name": "Ms. Khushpreet K. & Mr. Salil Sethi"
             }
           ]
         },
         {
-          "name": "‍Mr. Kawalijit S. Bhasin ⚭ Ms. Praveen K.",
+          "name": "‍Mr. Kawalijit S. Bhasin & Ms. Praveen K.",
           "children": [
             {
-              "name": "‍Mr. Anhad S. Bhasin ⚭ Ms. Bavnit K.",
+              "name": "‍Mr. Anhad S. Bhasin & Ms. Bavnit K.",
               "children": [
                 {
                   "name": "Aria K. Bhasin"
@@ -702,7 +705,7 @@ var family_data = {
               ]
             },
             {
-              "name": "Ms. Priya Bhasin ⚭ Mr. Souvik Roy"
+              "name": "Ms. Priya Bhasin & Mr. Souvik Roy"
             }
           ]
         }
